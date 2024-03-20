@@ -1,4 +1,4 @@
-/*
+
 This repo will help you to make a competetive line follower robot.
 Using these resources Team Falcon came runner up in  2 competetions (in one competetion completing an arena in 16seconds)
 Main Components Used:
@@ -21,4 +21,4 @@ LinkedIn  -->https://www.linkedin.com/in/malik-maaz-27165723b/
 Instagram -->https://www.instagram.com/eng_from_pakistan/
 Youtube   -->https://www.youtube.com/channel/UCsQf9zGTax1Qi_v5OIi3tJQ
 Github    -->https://github.com/engrpakistan?tab=repositories
-*/
+
